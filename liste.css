@@ -1,0 +1,79 @@
+header {
+    padding: 30px;
+
+}
+
+.logo {
+    padding-left: 100px;
+    margin-left: 100px;
+}
+
+.barre {
+    background-color: brown;
+    height: 70px;
+}
+
+.trai {
+    margin-top: 50px !important;
+}
+
+.bar {
+    background-color: brown;
+    margin-left: 220px !important;
+    width: 700px !important;
+    height: 10px;
+}
+
+.text {
+    text-align: center;
+
+}
+
+.but{
+    padding-left: 200px !important;
+}
+
+.ecrit{
+    margin-top: -120px !important;
+    padding-left: 500px !important;
+}
+.vide{
+    width: 10px;
+    height: 10px;
+    background-color: white !important;
+    
+}
+.espace{
+    width: 10px;
+    height: 10px;
+    background-color: white !important;
+}
+.grand td{
+border-left: 10px rgb(255, 255, 255) solid;
+}
+thead{
+    background-color: brown !important;
+    color: white !important;
+    
+}
+.bien{
+    background-color: brown;
+    border: 10px solid white !important;
+    color: white !important;   
+}
+th{
+    background-color: brown !important;
+    margin: 10px !important;
+    border: 10px solid white !important;
+}
+tbody, tr, td{
+    background-color: #d9dada;
+    border: 10px solid white !important;
+}
+
+footer{
+    background-color: #d9dada;
+   height: 150px !important;
+    
+}
+

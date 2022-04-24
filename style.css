@@ -1,0 +1,15 @@
+h1,h2{
+    color: brown;
+    text-align: center;
+}
+.formulaire{
+    text-align: center;
+
+}
+form input{
+    width: 600px;
+    height: 60px;
+    border:2px solid brown;
+    font-size: large;
+    color: brown;
+}
