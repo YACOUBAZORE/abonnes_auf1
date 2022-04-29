@@ -1,0 +1,102 @@
+header {
+    padding: 30px;
+
+}
+
+.logo {
+    padding-left: 100px;
+    margin-left: 100px;
+}
+
+.barre {
+    background-color: brown;
+    height: 70px;
+}
+
+.trai {
+    margin-top: 50px !important;
+}
+
+.bar {
+    background-color: brown;
+    margin-left: 220px !important;
+    width: 700px !important;
+    height: 10px;
+}
+
+.text {
+    text-align: center;
+
+}
+
+.menu {
+    margin: 100px !important;
+    padding-left: 230px !important;
+
+
+}
+
+input {
+    background-color: #d9dada !important;
+    width: 500px !important;
+    border: 10px solid white !important;
+}
+
+label {
+    width: 500px !important;
+}
+
+.sub{
+   
+    margin-top: 100px !important;
+    padding-left: 100px !important;
+}
+
+button{
+    background-color: brown !important;
+    width: 200px !important;
+    border-radius: 20px !important;
+    text-decoration: solid white !important;
+}
+
+.bon{
+    background-color: brown;
+    margin-left: 800px !important;
+    margin-bottom: 100px !important;
+    width: 400px !important;
+    height: 280px !important;
+
+}
+.trace{
+  text-align: #d9dada;
+}
+
+.barr{
+    background-color: #f1f3f8;
+    width: 80px !important;
+    height: 10px;
+}
+
+.texte{
+    color: #f1f3f8;
+}
+
+.image{
+    margin-top: -221px !important;
+    padding-left: 280px !important;
+}
+
+footer{
+    background-color: #d9dada;
+   height: 150px !important;
+    
+}
+
+.but{
+    padding-left: 200px !important;
+}
+
+.ecrit{
+    margin-top: -120px !important;
+    padding-left: 500px !important;
+}
